@@ -1,16 +1,43 @@
-# person_list
+# Person List
 
-A new Flutter project.
+## Integrantes do grupo
+- Arisa Abiko Sakaguti - 800357
+- Thales Winther - 802499
 
-## Getting Started
+## Requisitos
 
-This project is a starting point for a Flutter application.
+Usando Flutter, o framework Floor e ViewModel, implemente:
 
-A few resources to get you started if this is your first Flutter project:
+Crie um pequeno app com uma tela:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- No topo, um text field para nome, um text field para idade e um botão add. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Ao clicar em add, os valores dos text fields são armazenados em uma table Person (use o Floor).
+
+- No restante da tela, coloque um list view que mostra os valores na tabela Person (use um stream). 
+
+## Tecnologias
+- Android Studio
+-  Flutter
+ 
+
+## Telas
+
+![image](https://github.com/user-attachments/assets/375ccbbb-4c7b-47e1-9113-c316c8041dce)
+
+![image](https://github.com/user-attachments/assets/335b0c23-f410-44f9-86a5-d4ca70c83a73)
+
+![image](https://github.com/user-attachments/assets/0121c399-2f52-4ec1-a46b-6f811345cdf5)
+
+
+
+
+
+
+
+
+
+
+
+
+
