@@ -1,9 +1,5 @@
 # Person List
 
-## Integrantes do grupo
-- Arisa Abiko Sakaguti - 800357
-- Thales Winther - 802499
-
 ## Requisitos
 
 Usando Flutter, o framework Floor e ViewModel, implemente:
